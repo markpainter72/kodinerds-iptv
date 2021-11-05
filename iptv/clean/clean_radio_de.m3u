@@ -125,8 +125,8 @@ https://rbb-fritz-live.cast.addradio.de/rbb/fritz/live/mp3/mid
 https://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3
 #EXTINF:-1 tvg-name="HIT RADIO FFH" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradioffh.png",HIT RADIO FFH
 http://mp3.ffh.de/radioffh/hqlivestream.mp3
-#EXTINF:-1 tvg-name="hr-info" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hrinfo.png",hr-info
-http://hr-hrinfo-live.cast.addradio.de/hr/hrinfo/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-name="hr-iNFO" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hrinfo.png",hr-info
+https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/96/stream.mp3
 #EXTINF:-1 tvg-name="hr1" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr1.png",hr1
 https://dispatcher.rndfnk.com/hr/hr1/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="hr2-kultur" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr2kultur.png",hr2-kultur
